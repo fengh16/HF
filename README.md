@@ -1,4 +1,2 @@
 # HF
-Hydrogen Fluoride
-SE.62 THU
-Homework & Tsinsen & Other Projects
+Homework & Tsinsen & Other Projects of a Single Fox from SE.62, THU
